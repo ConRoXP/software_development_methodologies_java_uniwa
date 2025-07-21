@@ -1,0 +1,5 @@
+Author 1#Book 1#2006#960-8150#Category 1#Publisher 1#HC
+Author 2#Book 2#2006#960-8152#Category 2#Publisher 2#SC
+Author 3#Book 3#2006#960-8154#Category 3#Publisher 3#HC
+Author 4#Book 4#2006#960-8156#Category 4#Publisher 4#SC
+Author 5#Book 5#2006#960-8158#Category 5#Publisher 5#HC
