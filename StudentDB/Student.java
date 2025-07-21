@@ -10,10 +10,10 @@ public class Student implements Serializable{
     //Constructor
     public Student(String name, String surname, int age, int grade) throws InvalidAgeException, InvalidGradeException {
         if(age < 5 || age > 100){
-            throw new InvalidAgeException("Μη έγκυρη ηλικία");
+            throw new InvalidAgeException("Invalid age");
         }
         if(grade< 0 || grade> 10){
-            throw new InvalidGradeException("Μη έγκυρος βαθμός");
+            throw new InvalidGradeException("Invalid grade");
         }
 
         this.name= name;
@@ -41,6 +41,6 @@ public class Student implements Serializable{
 
     //Text Area output with full student details
     public String toString(){
-        return name + " " + surname + " Βαθμός: " + grade + " Ηλικία: " + age;
+        return name + " " + surname + " Grade: " + grade + " Age: " + age;
     }
 }
