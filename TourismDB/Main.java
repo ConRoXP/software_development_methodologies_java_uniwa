@@ -113,7 +113,7 @@ public class Main extends JFrame{
             }
         }
         if(index> -1){
-                            //All categories
+                            //!All categories
             if(selectedCat!= "Όλες οι κατηγορίες"){
                 for(int i= 0; i< entArray.size(); i++){
                     if(entArray.get(i).getID().equals(cityID) && entArray.get(i).getCat().equals(selectedCat)){
@@ -148,3 +148,4 @@ public class Main extends JFrame{
         Main mm= new Main();
     }
 }
+
