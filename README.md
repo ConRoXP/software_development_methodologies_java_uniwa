@@ -1,7 +1,9 @@
 # Software Development Methodologies (Java I)
 
 This course entails the various programming methodologies and it explains the reasons that
-each methodology is introduced. We consider successively various Programming paradigms:
+each methodology is introduced.  
+
+We studied various Programming paradigms:  
 Structured programming, Functional Programming, Logic programming, Object Oriented
 Programming, Component based Programming and Rapid application development (RAD).
 
