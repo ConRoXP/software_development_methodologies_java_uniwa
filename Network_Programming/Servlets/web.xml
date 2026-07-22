@@ -1,0 +1,11 @@
+<web-app>
+  <servlet>
+    <servlet-name>LinkName1</servlet-name>
+    <servlet-class>echoDataEntered</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>LinkName1</servlet-name>
+    <url-pattern>/displayRegDetails</url-pattern>
+  </servlet-mapping>
+</web-app>
