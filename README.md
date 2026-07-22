@@ -1,11 +1,17 @@
-# Software Development Methodologies (Java I)
+# Programming with Java
+This repository includes the programs I wrote for the two required Java courses. Each course is found in its respective folder.
 
-This course entails the various programming methodologies and it explains the reasons that
-each methodology is introduced.  
+### Java Features
+**Software Development Methodologies** is the first course and it includes the "basic" features of Java such as:  
+• I/O  
+• GUI  
+• Files  
+• Data Structures  
 
-We studied various Programming paradigms:  
-Structured programming, Functional Programming, Logic programming, Object Oriented
-Programming, Component based Programming and Rapid application development (RAD).
-
-We also learnt everything about Java except the networking part which is addressed in a later course.  
-Here I will be uploading some Java programs I wrote.
+### Network Programming
+**Network Programming** is the second course which includes the network tools Java offers:  
+• JDBC  
+• Sockets  
+• Threads  
+• Servlets  
+• Web Services  
