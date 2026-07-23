@@ -6,6 +6,7 @@ This repository includes the programs I wrote for the two required Java courses.
 • I/O  
 • GUI  
 • Files  
+• Exceptions  
 • Data Structures  
 
 ### Network Programming
